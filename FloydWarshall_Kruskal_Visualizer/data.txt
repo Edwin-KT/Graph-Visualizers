@@ -1,0 +1,14 @@
+Bucuresti 400 300
+Ploiesti 380 250
+Brasov 350 180
+Sibiu 250 170
+Cluj 220 100
+Timisoara 50 150
+Constanta 550 320
+EndCities
+0 1 60
+1 2 110
+2 3 140
+3 4 160
+3 5 280
+0 6 220
